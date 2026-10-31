@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hey there! 👋 I'm Ojasi Gupta
 
-<!--
-**Ojasigupta30/ojasigupta30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Artificial Intelligence & Data Science Student
 
-Here are some ideas to get you started:
+💡 Passionate about Artificial Intelligence, Machine Learning and Data Science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+- 🌱 Exploring AI, ML and Data Analytics
+- 💻 Learning Python and software development
+- 🌾 Working on Crop Health AI (SIH Project)
+- 🔍 Interested in solving real-world problems
+- 🤝 Always open to learning and collaboration
+
+### 🛠️ Technologies & Interests
+
+- Python
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Flutter & Dart
+- Git & GitHub
+
+### 🌱 Featured Project
+
+**Crop Health AI**
+
+An AI-powered agricultural assistance application focused on crop disease identification and farmer support.
+
+### 📫 Connect With Me
+
+GitHub: https://github.com/ojasigupta30
